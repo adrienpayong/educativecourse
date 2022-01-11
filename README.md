@@ -1,8 +1,7 @@
 # educative course support
 
 As an author at educative, those codes are to support the differents courses:
-Approach
-- Understand OpenCV
+
 - Read, write and display images
 - Perform arithmetic operations like addition and subtraction on images.
 - Color spacing and conversion.
